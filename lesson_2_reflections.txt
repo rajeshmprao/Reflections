@@ -1,3 +1,5 @@
 8. What happens when you initialize a repository? Why do you need to do it?
    This adds a .git file, it this initializes the version control mechanisms.
-   
+
+9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+   It is an intermediate area. Help us group logically similar files and then commit them together.
