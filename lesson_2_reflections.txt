@@ -3,3 +3,5 @@
 
 9. How is the staging area different from the working directory and the repository? What value do you think it offers?
    It is an intermediate area. Help us group logically similar files and then commit them together.
+10. How can you use the staging area to make sure you have one commit per logical change?
+    It is an intermediate stage before finally committing code. Make sure no mistakes in code.
