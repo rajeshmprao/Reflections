@@ -1,5 +1,5 @@
 1. The diff helped me only look at lines which are not same, hence isolating the error. This is pretty useful and prevent unnecessary reading of the code.
-2. It saves us time. No need to take backups manually, comes in handy if we need to access older versions of the code etc.
+2. It saves us time. No  need to take backups manually, comes in handy if we need to access older versions of the code etc.
 3. Committing manually is useful as there is a logical checkpoint to save progress, unlike auto commit. At the same time, lack of coder discipline to commit at the right interval creates too many or too little copies of the document.
 
 4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
